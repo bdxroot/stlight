@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
+    <title>Study Light | Read type selection </title>
+</head>
+
+<body>
+
+    <div class="max-w-md mx-auto mt-6 px-4">
+        <h2 class="text-lg font-semibold text-center text-black/80 mb-4">আপনি <span id="grupeName"></span> কী পড়তে চান?</h2>
+
+        <!-- MCQ Options -->
+        <div class="space-y-3">
+            <a href="with-ans-mcq.html"
+                class="block bg-blue-100 hover:bg-blue-200 rounded-lg px-4 py-3 shadow text-center font-medium text-black/80">
+                ১) MCQ পড়ুন
+            </a>
+
+            <a href="without-ans-mcq.html"
+                class="block bg-green-100 hover:bg-green-200 rounded-lg px-4 py-3 shadow text-center font-medium text-black/80">
+                ২) নিজে MCQ এর উত্তর দিন
+            </a>
+
+            <a href=""
+                class="block bg-purple-100 hover:bg-purple-200 rounded-lg px-4 py-3 shadow text-center font-medium text-black/80">
+                ৩) বোর্ডের MCQ + উত্তর
+            </a>
+        </div>
+
+        <!-- Short Question -->
+        <div class="mt-6">
+            <a href="cq.html"
+                class="block bg-yellow-100 hover:bg-yellow-200 rounded-lg px-4 py-3 shadow text-center font-medium text-black/80">
+                ✏️ সংক্ষিপ্ত প্রশ্ন (Set “ক”)
+            </a>
+        </div>
+
+        <div class="mt-6">
+            <a href="" onclick="linkGenaret('download')"
+                class="block bg-yellow-100 hover:bg-yellow-200 rounded-lg px-4 py-3 shadow text-center font-medium text-black/80">
+                বই ডাউনলোড করুন
+            </a>
+        </div>
+    </div><br><br>
+
+</body>
+
+</html>
