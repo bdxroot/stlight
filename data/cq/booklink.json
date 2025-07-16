@@ -1,0 +1,15 @@
+[
+  {
+    "grupe": "Science",
+    "name": "পরিবেশ রসায়ন",
+    "link": "data/cq/environmental-chemistry.json"
+  },
+  {
+    "name": "তাপগতিবিদ্যা",
+    "link": "https://example.com/physics/chapter2.json"
+  },
+  {
+    "name": "তড়িৎচুম্বকত্ব",
+    "link": "https://example.com/physics/chapter3.json"
+  }
+]
