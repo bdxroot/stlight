@@ -1,0 +1,26 @@
+[
+  {
+    "grupe": "Science",
+    "name": "পরিবেশ রসায়ন",
+    "link": "data/cq/environmental-chemistry.json"
+  },
+  {
+    "name": "গুণগত রসায়ন",
+    "link": "data/cq/qualitative-chemistry.json"
+  },
+  {
+    "name": "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন",
+    "link": "data/cq/periodicity-of-elements-and-chemical-bonding.json"
+  },
+  {
+    "grupe": "Science",
+    "name": "রাসায়নিক পরিবর্তন",
+    "link": "data/cq/chemical-change.json"
+  },
+  {
+    "grupe": "Science",
+    "name": "কর্মমুখী রসায়ন",
+    "link":"data/cq/action-oriented-chemistry.json"
+  }
+  
+]
