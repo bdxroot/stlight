@@ -1,0 +1,302 @@
+[
+  {
+    "question_number": 1,
+    "question": "A(g) + 3B(g) &rlarr; 2D(g) এই বিক্রিয়ায় K<sub>p</sub> এর একক কোনটি?",
+    "options": [
+      "atm",
+      "atm<sup>-1</sup>",
+      "atm<sup>-2</sup>",
+      "atm<sup>2</sup>"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+    },
+  {
+    "question_number": 2,
+    "question": "মিথানোয়িক এসিডের বিয়োজন মাত্রা কোনটি দ্বারা হিসাব করা হয়?",
+    "options": [
+      "&radic;<span style='text-decoration:overline;'>c/K<sub>a</sub></span>",
+      "K<sub>a</sub>/c",
+      "&radic;<span style='text-decoration:overline;'>K<sub>a</sub>&sdot;c</span>",
+      "&radic;<span style='text-decoration:overline;'>K<sub>a</sub>/c</span>"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+    },
+  {
+    "question_number": 3,
+    "question": "মল্ট ভিনেগার প্রস্তুতিতে গ্লুকোজের গাঁজন প্রক্রিয়ায় কোন এনজাইম ব্যবহৃত হয়?",
+    "options": [
+      "ইনভারটেস",
+      "ম্যালটেস",
+      "জাইমেস",
+      "ডায়াস্টেজ"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question_number": 4,
+    "question": "উদ্দীপক অনুসারে নিচের কোনটি সঠিক? <br> <table border=\"1\" style=\"width:100%; border-collapse:collapse; margin-top:10px;\"><tr><th style=\"padding:5px;\">মৌল</th><th style=\"padding:5px;\">সর্ববহিস্থ স্তরের ইলেক্ট্রন বিন্যাস</th></tr><tr><td style=\"padding:5px; text-align:center;\">A</td><td style=\"padding:5px; text-align:center;\">ns<sup>2</sup>np<sup>2</sup></td></tr><tr><td style=\"padding:5px; text-align:center;\">D</td><td style=\"padding:5px; text-align:center;\">(n+1)s<sup>2</sup></td></tr><tr><td style=\"padding:5px; text-align:center;\">E</td><td style=\"padding:5px; text-align:center;\">(n+2)s<sup>2</sup></td></tr><tr><td style=\"padding:5px; text-align:center;\">X</td><td style=\"padding:5px; text-align:center;\">(n+1)s<sup>2</sup>(n+1)p<sup>5</sup></td></tr></table> <p>(যেখানে, n = ২)</p> <p>I) DX<sub>2</sub> একটি আয়নিক যৌগ <br> II) ECO<sub>3</sub> একটি স্থিতিশীল যৌগ <br> III) A মৌলটি সমযোজী যৌগ গঠন করে</p>",
+    "options": [
+      "I, II",
+      "II, III",
+      "I, III",
+      "I, II, III"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question_number": 5,
+    "question": "50&deg;C তাপমাত্রায় NH<sub>4</sub>Cl এর ১২০ gm সম্পৃক্ত দ্রবণকে 25&deg;C তাপমাত্রায় শীতল করলে কত গ্রাম NH<sub>4</sub>Cl কেলাসিত হবে? [50&deg;C ও 25&deg;C তাপমাত্রায় NH<sub>4</sub>Cl এর দ্রাব্যতা যথাক্রমে ৬০ ও ৪০]",
+    "options": [
+      "১৫",
+      "৪৫",
+      "৫০",
+      "৯০"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question_number": 6,
+    "question": "আন্তর্জাতিকভাবে স্বীকৃত সবুজ রসায়নের মূলনীতি কয়টি?",
+    "options": [
+      "১০",
+      "১১",
+      "১২",
+      "১৩"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question_number": 7,
+    "question": "কোন খাদ্য সংরক্ষকটি অ্যান্টি-মাইক্রোবিয়াল হিসেবে ব্যবহৃত হয়?",
+    "options": [
+      "টোকোফেরল",
+      "বেনজোয়িক এসিড",
+      "ভিটামিন-সি",
+      "BHT"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question_number": 8,
+    "question": "তাপমাত্রা বৃদ্ধির সাথে দ্রাব্যতা বাড়ে কোনটি?",
+    "options": [
+      "NaNO<sub>3</sub>",
+      "Ca(NO<sub>3</sub>)<sub>2</sub>",
+      "Ca(OH)<sub>2</sub>",
+      "NaOH"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question_number": 9,
+    "question": "ম্যাগনেসিয়াম ফসফেটের দ্রাব্যতা 'S' হলে, দ্রাব্যতা গুণফল কত?",
+    "options": [
+      "S<sup>2</sup>",
+      "8S<sup>3</sup>",
+      "27S<sup>4</sup>",
+      "108S<sup>5</sup>"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question_number": 10,
+    "question": "d-ব্লক মৌলের সংখ্যা কতটি?",
+    "options": [
+      "১৪",
+      "২৭",
+      "৩৬",
+      "৪১"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question_number": 11,
+    "question": "K<sub>p</sub> এর মান কত atm?",
+    "options": [
+      "3.07",
+      "3.00",
+      "2.32",
+      "1.28"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question_number": 12,
+    "question": "যদি বিক্রিয়ায় X<sub>2</sub> অপসারণ করা হয় তবে - <br> I) বিক্রিয়ার সাম্যাবস্থার পরিবর্তন ঘটবে <br> II) বিক্রিয়া সম্মুখ দিকে অগ্রসর হবে <br> III) বিক্রিয়ায় AX<sub>3</sub> এর পরিমাণ বৃদ্ধি পাবে <br><br> নিচের কোনটি সঠিক?",
+    "options": [
+      "I, II",
+      "II, III",
+      "I, III",
+      "I, II, III"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question_number": 13,
+    "question": "PCl<sub>5</sub> যৌগের কেন্দ্রীয় পরমাণুতে কী ধরনের সংকরণ ঘটে?",
+    "options": [
+      "sp<sup>2</sup>",
+      "sp<sup>3</sup>",
+      "sp<sup>3</sup>d",
+      "sp<sup>3</sup>d<sup>2</sup>"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question_number": 14,
+    "question": "কোন অক্সাইডটি সবচেয়ে বেশী অম্লধর্মী হবে?",
+    "options": [
+      "SO<sub>3</sub>",
+      "Cl<sub>2</sub>O<sub>7</sub>",
+      "P<sub>2</sub>O<sub>5</sub>",
+      "SiO<sub>2</sub>"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question_number": 15,
+    "question": "সালফারের (S) শেষ ইলেক্ট্রনটির জন্য কোয়ান্টাম সংখ্যার কোন সেটটি প্রযোজ্য?",
+    "options": [
+      "n=3, l=0, m=0, s=+1/2",
+      "n=3, l=2, m=1, s=+1/2",
+      "n=3, l=1, m=-1, s=-1/2",
+      "n=3, l=2, m=0, s=-1/2"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question_number": 16,
+    "question": "কোন আনুপাতিক মিশ্রণটি বাফার দ্রবণ?",
+    "options": [
+      "CH<sub>3</sub>COOH : NaOH = 2:1",
+      "CH<sub>3</sub>COOH : NH<sub>4</sub>OH = 1:1",
+      "NH<sub>4</sub>OH : HCl = 1:1",
+      "NH<sub>4</sub>OH : H<sub>2</sub>SO<sub>4</sub> = 2:1"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question_number": 17,
+    "question": "খাদ্যদ্রব্য নষ্ট হওয়ার কারণ - <br> I) অণুজীবের আক্রমণ <br> II) খাদ্যের জারণ <br> III) এনজাইমের প্রভাব <br><br> নিচের কোনটি সঠিক?",
+    "options": [
+      "I, II",
+      "II, III",
+      "I, III",
+      "I, II, III"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question_number": 18,
+    "question": "মৌলের যে কোনো উপশক্তি স্তরে ইলেক্ট্রন ধারণ ক্ষমতার সূত্র কোনটি?",
+    "options": [
+      "2(2l+1)",
+      "2(l+1)",
+      "2l+1",
+      "2n<sup>2</sup>"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question_number": 19,
+    "question": "পাউলিং স্কেলে ক্লোরিনের তড়িৎ ঋণাত্মকতার মান কত?",
+    "options": [
+      "2.1",
+      "2.5",
+      "3.0",
+      "4.0"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question_number": 20,
+    "question": "জাল টাকা শনাক্তকরণে কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "মহাজাগতিক রশ্মি",
+      "গামা রশ্মি",
+      "রঞ্জন রশ্মি",
+      "অতিবেগুনী রশ্মি"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question_number": 21,
+    "question": "কোনটির পোলারায়ন ক্ষমতা বেশি?",
+    "options": [
+      "Mg<sup>2+</sup>",
+      "Ca<sup>2+</sup>",
+      "Sr<sup>2+</sup>",
+      "Ba<sup>2+</sup>"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question_number": 22,
+    "question": "০.৪% NaOH দ্রবণের pH কত?",
+    "options": [
+      "০",
+      "১",
+      "১৩",
+      "১৪"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question_number": 23,
+    "question": "কোনটি কৃত্রিম খাদ্য সংরক্ষক?",
+    "options": [
+      "সোডিয়াম ক্লোরাইড",
+      "সোডিয়াম বেনজোয়েট",
+      "চিনি",
+      "হলুদ"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question_number": 24,
+    "question": "দ্রাব্যতা গুণফল - <br> I) দ্রবণের তাপমাত্রার উপর নির্ভরশীল <br> II) স্বল্প দ্রবণীয় তড়িৎ বিশ্লেষ্যের ক্ষেত্রে প্রযোজ্য <br> III) সম্পৃক্ত বা অসম্পৃক্ত উভয় দ্রবণের জন্য প্রযোজ্য <br><br> নিচের কোনটি সঠিক?",
+    "options": [
+      "I, II",
+      "II, III",
+      "I, III",
+      "I, II, III"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question_number": 25,
+    "question": "কোন আয়নটি রঙিন যৌগ গঠন করে?",
+    "options": [
+      "Ni<sup>2+</sup>",
+      "Zn<sup>2+</sup>",
+      "Sc<sup>3+</sup>",
+      "Cs<sup>+</sup>"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  }
+]
