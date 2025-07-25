@@ -21,6 +21,11 @@
     "grupe": "Science",
     "name": "কর্মমুখী রসায়ন",
     "link":"data/cq/action-oriented-chemistry.json"
+  },
+  {
+    "grupe": "Science",
+    "name": "কোষ ও এর গঠন",
+    "link":"data/cq/cell-and-its-structure.json"
   }
   
 ]
