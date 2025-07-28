@@ -1,0 +1,277 @@
+[
+  {
+    "question": "স্পোরোফাইটিক উদ্ভিদে কোথায় মায়োসিস ঘটে?",
+    "options": [
+      "দেহকোষে",
+      "জনন কোষে",
+      "জননমাতৃ কোষে",
+      "জাইগোটে"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "মাইটোসিস বিভাজনের কোন ধাপে নিউক্লিয়ার মেমব্রেন সম্পূর্ণরূপে বিলুপ্ত হয়?",
+    "options": [
+      "প্রোফেজ",
+      "প্রো-মেটাফেজ",
+      "মেটাফেজ",
+      "অ্যানাফেজ"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "ইমার্জিং ভাইরাস কোনটি?",
+    "options": [
+      "T<sub>2</sub>",
+      "Zika virus",
+      "TMV",
+      "Ebola"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "নিচের চিত্রটি লক্ষ্য করে ৪ নং প্রশ্নের উত্তর দাও:<br><br><img src='https://i.ibb.co/qYvCCkkp/IMG-20250728-222026-085.jpg' alt='অনুজীবের চিত্র' style='width:100%;max-width:200px;display:block;margin:auto;'> <br> চিত্রের অনুজীবটির ক্ষেত্রে প্রযোজ্য—<br> i. সুকেন্দ্রিক<br> ii. প্লাজমিড যুক্ত<br> iii. মেসোসোম বিদ্যমান<br><br>নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "কোন উদ্ভিদে দ্বিনিষেক ঘটে?",
+    "options": [
+      "Cycas",
+      "Pinus",
+      "Gnetum",
+      "Ephedra"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "পাতার গ্রাউন্ড টিস্যুকে কী বলে?",
+    "options": [
+      "কর্টেক্স",
+      "পেরিসাইকেল",
+      "মেসোফিল",
+      "মজ্জা"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "C<sub>4</sub> চক্রের প্রথম স্থায়ী যৌগ—",
+    "options": [
+      "অক্সালো এসিটিক এসিড",
+      "৩-ফসফোগ্লিসারিক এসিড",
+      "ম্যালিক এসিড",
+      "পাইরুভিক এসিড"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "কোষের কোন অঙ্গাণুতে ক্রেবস চক্র সম্পন্ন হয়?",
+    "options": [
+      "মাইটোকন্ড্রিয়া",
+      "গলগিবস্তু",
+      "রাইবোসোম",
+      "নিউক্লিয়াস"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "মানুষের শরীরে ক্যান্সার প্রতিরোধ করে কোনটি?",
+    "options": [
+      "ইন্সুলিন",
+      "গ্লোবিউলিন",
+      "ইন্টারফেরন",
+      "সোমাটোস্ট্যাটিন"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "অনুলিপন সম্পন্ন করে কোনটি?",
+    "options": [
+      "কোডন",
+      "সিস্ট্রন",
+      "মিউটন",
+      "রেকন"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "কোষগহ্বরের আবরণকে কী বলে?",
+    "options": [
+      "এক্টোপ্লাজম",
+      "এন্ডোপ্লাজম",
+      "হায়ালোপ্লাজম",
+      "টনোপ্লাস্ট"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "নিচের উদ্দীপকটি লক্ষ্য করে ১২ ও ১৩ নং প্রশ্নের উত্তর দাও:<br><br><img src='https://i.ibb.co/R4gfXKsk/IMG-20250728-222042-853.jpg' alt='কোষ বিভাজনের চিত্র' style='width:100%;max-width:200px;display:block;margin:auto;'> <br> উদ্দীপকের কোষ বিভাজন ঘটে—<br> i. দেহকোষে<br> ii. জননকোষে<br> iii. জননাঙ্গের কোষে<br><br>নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "উদ্দীপকের কোষ বিভাজনে নিচের কোনটি ঘটে?",
+    "options": [
+      "সিন্যাপসিস",
+      "বাইভ্যালেন্ট সৃষ্টি",
+      "সমগুণসম্পন্ন কোষ সৃষ্টি",
+      "কায়াজমা সৃষ্টি"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "ভিরিয়ন হলো ভাইরাসের",
+    "options": [
+      "সংক্রমণ ক্ষমতাবিহীন কণা",
+      "সংক্রমণক্ষম কণা",
+      "প্রোটিন",
+      "নিউক্লিক এসিড"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "কোনটি ব্যাকটেরিয়াজনিত রোগ?",
+    "options": [
+      "জন্ডিস",
+      "হাম",
+      "জলাতঙ্ক",
+      "টাইফয়েড"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "ম্যালেরিয়া পরজীবীর ডিপ্লয়েড দশা হলো—<br>i. ট্রফোজয়েট<br>ii. উওকিনেট<br>iii. উওসিস্ট<br><br>নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "নিচের উদ্দীপকটি লক্ষ্য করে ১৭ ও ১৮ নং প্রশ্নের উত্তর দাও:<br><br><img src='https://i.ibb.co/DgHyCtz0/IMG-20250728-222052-768.jpg' alt='পুষ্পসংকেত' style='width:100%;max-width:200px;display:block;margin:auto;'> <br> উদ্দীপকের পুষ্পসংকেতটি কোন উদ্ভিদে পাওয়া যায়?",
+    "options": [
+      "ধান",
+      "গম",
+      "ভুট্টা",
+      "ঢেঁড়স"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question": " উদ্দীপক নির্দেশিত গোত্রের ক্ষেত্রে প্রযোজ্য—<br> i. অমরা বিনাস অক্ষীয় <br> ii. বৃত্তি মুক্ত<br> iii. পুংকেশর অসংখ্য<br><br>নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "কচুর মূলে ভাস্কুলার বান্ডলের ধরন",
+    "options": [
+      "হ্যাড্রোসেন্ট্রিক",
+      "অরীয়",
+      "সংযুক্ত",
+      "লেপ্টোসেন্ট্রিক"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "কোন ভাজক টিস্যু একতলে বিভাজিত হয়?",
+    "options": [
+      "রিব",
+      "শীর্ষস্থ",
+      "প্লেট",
+      "মাস"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "পত্ররন্ধ্র খোলা ও বন্ধ হওয়া নিয়ন্ত্রণ করে—<br> i. স্টার্চ<br> ii. pH<br> iii. Na<sup>+</sup><br><br>নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "টিস্যু কালচার মিডিয়ামে কোন উপাদান থাকা প্রয়োজন?",
+    "options": [
+      "প্রোটিন",
+      "ভিটামিন",
+      "ম্যালটোজ",
+      "সুকরোজ"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "কোনটিতে প্লাজমিড আছে?",
+    "options": [
+      "Pneumococcus",
+      "TMV",
+      "E. coli",
+      "Vibrio cholerae"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "নিচের উদ্দীপকের আলোকে ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও:<br><br><img src='https://i.ibb.co/LDkWFR4p/IMG-20250728-222101-014.jpg' alt='Central Dogma Diagram' style='width:100%;max-width:200px;display:block;margin:auto;'> <br> উদ্দীপকের 'A' চিহ্নিত প্রক্রিয়াটি কী?",
+    "options": [
+      "রেপ্লিকেশন",
+      "ট্রান্সক্রিপশন",
+      "ট্রান্সলেশন",
+      "ট্রান্সফরমেশন"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "প্রক্রিয়া 'B' এর ক্ষেত্রে প্রযোজ্য—<br> i. রাইবোসোম প্রয়োজন<br> ii. tRNA প্রয়োজন<br> iii. নিউক্লিয়াসে সংগঠিত হয়<br><br>নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  }
+]

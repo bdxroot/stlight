@@ -1,0 +1,12 @@
+[
+  {
+    "book": "রসায়ন ১ম পত্র",
+    "AI": "data/bord/chemistry-1st-paper.json",
+    "YouTube": "data/bord/chemistry-1st-paper1.json"
+  },
+  {
+    "book": "জীববিজ্ঞান ১ম পত্র",
+    "AI": "data/bord/biology-1st-paper.json",
+    "YouTube": "data/bord/biology-1st-paper1.json"
+  }
+]
