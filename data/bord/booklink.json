@@ -8,5 +8,10 @@
     "book": "জীববিজ্ঞান ১ম পত্র",
     "AI": "data/bord/biology-1st-paper.json",
     "YouTube": "data/bord/biology-1st-paper1.json"
+  },
+  {
+    "book": "জীববিজ্ঞান ২য় পত্র",
+    "AI": "data/bord/biology-2nd-paper.json",
+    "YouTube": "data/bord/biology-2nd-paper1.json"
   }
 ]
