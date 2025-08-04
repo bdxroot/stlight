@@ -13,5 +13,11 @@
     "book": "জীববিজ্ঞান ২য় পত্র",
     "AI": "data/bord/biology-2nd-paper.json",
     "YouTube": "data/bord/biology-2nd-paper1.json"
+  },
+  {
+    "book": "উচ্চতর গণিত ১ম পত্র",
+    "AI": "data/bord/higher-mathematics-1st-paper.json",
+    "YouTube": "data/bord/higher-mathematics-1st-paper1.json"
   }
+  
 ]
