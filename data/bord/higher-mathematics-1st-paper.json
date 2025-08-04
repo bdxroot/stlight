@@ -1,0 +1,277 @@
+[
+  {
+    "question": "(2, 4) কেন্দ্রবিশিষ্ট ও x-অক্ষকে স্পর্শ করে এরূপ বৃত্তের সমীকরণ—",
+    "options": [
+      "x<sup>2</sup> + y<sup>2</sup>-4x-8y+16=0",
+      "x<sup>2</sup> + y<sup>2</sup> - 4x-8y+4=0",
+      "x<sup>2</sup>+ y<sup>2</sup> - 8x-4y+16=0",
+      "x<sup>2</sup>+ y<sup>2</sup> - 8x-4y+4=0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "বৃত্তের কেন্দ্র (h, k) = (2, 4) এবং এটি x-অক্ষকে স্পর্শ করায় ব্যাসার্ধ r হবে কেন্দ্রের y-স্থানাঙ্কের পরম মানের সমান, অর্থাৎ r = 4। বৃত্তের আদর্শ সমীকরণ: (x-h)<sup>2</sup> + (y-k)<sup>2</sup> = r<sup>2</sup>। মান বসিয়ে পাই, (x-2)<sup>2</sup> + (y-4)<sup>2</sup> = 4<sup>2</sup> ⇒ x<sup>2</sup> - 4x + 4 + y<sup>2</sup> - 8y + 16 = 16 ⇒ x<sup>2</sup> + y<sup>2</sup> - 4x - 8y + 4 = 0।"
+  },
+  {
+    "question": "y = mx + c সরলরেখাটি x<sup>2</sup> + y<sup>2</sup> = 25 বৃত্তকে স্পর্শ করার শর্ত",
+    "options": [
+      "c = ±5√<span style='text-decoration:overline;'>1+ m<sup>2</sup></span>",
+      "c = ± 5√<span style='text-decoration:overline;'>1 - m<sup>2</sup></span>",
+      "c= ± 25 √<span style='text-decoration:overline;'> 1 + m<sup>2</sup></span>",
+      "c= ± 25 √<span style='text-decoration:overline;'>1-m<sup>2</sup></span>"
+    ],
+    "correctAnswer": 0,
+    "explanation": "x<sup>2</sup> + y<sup>2</sup> = r<sup>2</sup> বৃত্তকে y = mx + c সরলরেখা স্পর্শ করার শর্ত হলো c<sup>2</sup> = r<sup>2</sup>(1+m<sup>2</sup>)। এখানে বৃত্তের সমীকরণ x<sup>2</sup> + y<sup>2</sup> = 25, সুতরাং r<sup>2</sup> = 25 এবং r = 5। অতএব, শর্তটি হলো c<sup>2</sup> = 25(1+m<sup>2</sup>) ⇒ c = ±5√<span style='text-decoration:overline;'>1+m<sup>2</sup></span>।"
+  },
+  {
+    "question": "<div style='width: 0; height: 0; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 17.32px solid black; display: inline-block; margin-right: 5px;'></div>ABC এর a : b : c = 1 : √3 : 2 হলে <C এর মান কত?",
+    "options": [
+      "90°",
+      "60°",
+      "45°",
+      "30°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ধরি, a = k, b = √3k, এবং c = 2k। কোসাইনের সূত্র অনুযায়ী, cos(C) = (a<sup>2</sup>+b<sup>2</sup>-c<sup>2</sup>)/2ab = (k<sup>2</sup>+(√3k)<sup>2</sup>-(2k)<sup>2</sup>)/(2*k*√3k) = (k<sup>2</sup>+3k<sup>2</sup>-4k<sup>2</sup>)/(2√3k<sup>2</sup>) = 0/(2√3k<sup>2</sup>) = 0। সুতরাং, C = cos<sup>-1</sup>(0) = 90°।"
+  },
+  {
+    "question": "sin 5° = p হলে sin 10° এর মান কোনটি?",
+    "options": [
+      "2p√<span style='text-decoration:overline;'>1-p<sup>2</sup></span>",
+      "2√<span style='text-decoration:overline;'>1-p<sup>2</sup></span>",
+      "2p√<span style='text-decoration:overline;'>p<sup>2</sup>-1</span>",
+      "2p"
+    ],
+    "correctAnswer": 0,
+    "explanation": "আমরা জানি, sin(2θ) = 2sin(θ)cos(θ)। এখানে, sin(10°) = sin(2×5°) = 2sin(5°)cos(5°)। দেওয়া আছে sin(5°) = p। আমরা আরও জানি, cos(θ) = √<span style='text-decoration:overline;'>1-sin<sup>2</sup>(θ)</span>। সুতরাং, cos(5°) = √<span style='text-decoration:overline;'>1-p<sup>2</sup></span>। মান বসিয়ে পাই, sin(10°) = 2p√<span style='text-decoration:overline;'>1-p<sup>2</sup></span>।"
+  },
+  {
+    "question": "নিচের তথ্যের আলোকে ৫ ও ৬ নং প্রশ্নের উত্তর দাও:<br><img src='https://i.ibb.co.com/4RvgZYrx/IMG-20250804-232311-029-2.jpg' alt='Triangle ABC' width='300'><br>c = কত?",
+    "options": [
+      "1/√3",
+      "2/√3",
+      "2√3",
+      "3√3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "চিত্রে প্রদত্ত ত্রিভুজ ABC-তে, ∠B = 30° এবং ∠C = 120°। আমরা জানি, ত্রিভুজের তিন কোণের সমষ্টি 180°। সুতরাং, ∠A = 180° - (30° + 120°) = 30°। সাইন সূত্র থেকে, a/sin(A) = c/sin(C)। দেওয়া আছে a = 2। ⇒ 2/sin(30°) = c/sin(120°) ⇒ 2/(1/2) = c/(√3/2) ⇒ 4 = 2c/√3 ⇒ c = 2√3।"
+  },
+  {
+    "question": "<div style='width: 0; height: 0; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 17.32px solid black; display: inline-block; margin-right: 5px;'></div>ABC এর পরিব্যাসার্ধ কত?",
+    "options": [
+      "1",
+      "2",
+      "2/√3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "সাইন সূত্র অনুযায়ী, a/sin(A) = 2R, যেখানে R হলো পরিব্যাসার্ধ। পূর্ববর্তী প্রশ্ন থেকে আমরা পাই a = 2 এবং ∠A = 30°। সুতরাং, 2/sin(30°) = 2R ⇒ 2/(1/2) = 2R ⇒ 4 = 2R ⇒ R = 2।"
+  },
+  {
+    "question": "y = cot<sup>-1</sup>((1-x)/(1+x)) হলে dy/dx = ?",
+    "options": [
+      "1/(1+x<sup>2</sup>)",
+      "-1/(1+x<sup>2</sup>)",
+      "1/(1+x)",
+      "-1/(1+x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ধরি, x = tan(θ), তাহলে θ = tan<sup>-1</sup>(x)। y = cot<sup>-1</sup>((1-tanθ)/(1+tanθ)) = cot<sup>-1</sup>(tan(π/4 - θ))। আমরা জানি tan(A) = cot(π/2 - A)। সুতরাং, y = cot<sup>-1</sup>(cot(π/2 - (π/4 - θ))) = cot<sup>-1</sup>(cot(π/4 + θ)) = π/4 + θ = π/4 + tan<sup>-1</sup>(x)। এখন, dy/dx = d/dx(π/4 + tan<sup>-1</sup>(x)) = 0 + 1/(1+x<sup>2</sup>) = 1/(1+x<sup>2</sup>)।"
+  },
+  {
+    "question": "(0, 1) বিন্দুতে y = e<sup>x</sup> বক্ররেখার ক্ষেত্রে—<br>i. স্পর্শকের সমীকরণ, x-y+1=0<br>ii. অভিলম্বের সমীকরণ, x+y−1=0<br>iii. ঢাল = 1<br>নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "correctAnswer": 3,
+    "explanation": "y = e<sup>x</sup>, অন্তরীকরণ করে পাই dy/dx = e<sup>x</sup>। (0, 1) বিন্দুতে স্পর্শকের ঢাল m = e<sup>0</sup> = 1 (iii সঠিক)। স্পর্শকের সমীকরণ: y - 1 = 1(x - 0) ⇒ x - y + 1 = 0 (i সঠিক)। অভিলম্বের ঢাল = -1/m = -1। অভিলম্বের সমীকরণ: y - 1 = -1(x - 0) ⇒ x + y - 1 = 0 (ii সঠিক)। সুতরাং, i, ii ও iii সবগুলোই সঠিক।"
+  },
+  {
+    "question": "cos(3x) এর n-তম অন্তরজ কোনটি?",
+    "options": [
+      "3<sup>n</sup>sin(3x)",
+      "3n sin(3x)",
+      "3<sup>n</sup>cos(nπ/2 + 3x)",
+      "3<sup>n</sup>sin(nπ/2 + 3x)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "y = cos(ax+b) এর n-তম অন্তরজ নির্ণয়ের সূত্রটি হলো y<sub>n</sub> = a<sup>n</sup>cos(nπ/2 + ax+b)। এখানে y = cos(3x) এর জন্য a=3 এবং b=0। সুতরাং, n-তম অন্তরজ হবে 3<sup>n</sup>cos(nπ/2 + 3x)।"
+  },
+  {
+    "question": "x = a cosθ, y = a sinθ হলে, dy/dx = কত?",
+    "options": [
+      "y/x",
+      "x/y",
+      "-y/x",
+      "-x/y"
+    ],
+    "correctAnswer": 3,
+    "explanation": "এখানে x = a cosθ এবং y = a sinθ। θ এর সাপেক্ষে অন্তরীকরণ করে পাই, dx/dθ = -a sinθ এবং dy/dθ = a cosθ। সুতরাং, dy/dx = (dy/dθ) / (dx/dθ) = (a cosθ) / (-a sinθ) = -cotθ। যেহেতু x/a = cosθ এবং y/a = sinθ, তাই cotθ = x/y। অতএব, dy/dx = -x/y।"
+  },
+  {
+    "question": "y = -√<span style='text-decoration:overline;'>4 - x<sup>2</sup></span> এবং y = 0 দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কোনটি?",
+    "options": [
+      "4π",
+      "2π",
+      "π",
+      "π/2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "y = -√<span style='text-decoration:overline;'>4 - x<sup>2</sup></span> সমীকরণকে বর্গ করলে পাই y<sup>2</sup> = 4 - x<sup>2</sup>, বা x<sup>2</sup> + y<sup>2</sup> = 4। এটি একটি বৃত্তের সমীকরণ যার কেন্দ্র (0,0) এবং ব্যাসার্ধ r = 2। যেহেতু y এর মান ঋণাত্মক, এটি বৃত্তের নিচের দিকের অর্ধবৃত্তকে নির্দেশ করে। y = 0 হলো x-অক্ষ। সুতরাং, আবদ্ধ ক্ষেত্রের ক্ষেত্রফল হবে অর্ধবৃত্তের ক্ষেত্রফল, যা (1/2)πr<sup>2</sup> = (1/2)π(2)<sup>2</sup> = 2π বর্গ একক।"
+  },
+  {
+    "question": "∫e<sup>x</sup>(cosx - sinx) dx = f(x) + c হলে, f(x) কোনটি?",
+    "options": [
+      "e<sup>x</sup>sinx",
+      "-e<sup>x</sup>sinx",
+      "e<sup>x</sup>cosx",
+      "-e<sup>x</sup>cosx"
+    ],
+    "correctAnswer": 2,
+    "explanation": "যোগজীকরণের সূত্র ∫e<sup>x</sup>{f(x) + f'(x)}dx = e<sup>x</sup>f(x) + c অনুযায়ী, যদি আমরা f(x) = cosx ধরি, তবে f'(x) = -sinx। সুতরাং, ∫e<sup>x</sup>(cosx - sinx)dx = e<sup>x</sup>cosx + c। প্রদত্ত সমীকরণের সাথে তুলনা করে পাই, f(x) = e<sup>x</sup>cosx।"
+  },
+  {
+    "question": "∫<sub>2</sub><sup>3</sup> (2x - 1) / (x(x - 1)) dx = কত?",
+    "options": [
+      "ln 4",
+      "ln 2",
+      "2 ln 3",
+      "ln 3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "প্রথমে আংশিক ভগ্নাংশে পরিণত করি: (2x-1)/(x(x-1)) = A/x + B/(x-1)। সমাধান করে পাই A=1 এবং B=1। সুতরাং, ইন্টিগ্রালটি হলো ∫<sub>2</sub><sup>3</sup> (1/x + 1/(x-1)) dx = [ln|x| + ln|x-1|]<sub>2</sub><sup>3</sup> = (ln3 + ln2) - (ln2 + ln1) = ln3 + ln2 - ln2 - 0 = ln3।"
+  },
+  {
+    "question": "∫sin x° dx = কত?",
+    "options": [
+      "cosx° + c",
+      "– cosx + c",
+      "-180/π cosx° + c",
+      "cosx° + c"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ডিগ্রিকে রেডিয়ানে রূপান্তর করতে হবে: x° = x * (π/180) রেডিয়ান। ∫sin(x°)dx = ∫sin(πx/180)dx। ইন্টিগ্রেশন করে পাই, -cos(πx/180) / (π/180) + c = - (180/π) cos(x°) + c।"
+  },
+  {
+    "question": "যদি A, B, C ম্যাট্রিক্স তিনটির আকার যথাক্রমে 3×4, 4x3 এবং 3×2 হয় তবে (A<sup>T</sup>+B)C ম্যাট্রিক্সটির আকার কত?",
+    "options": [
+      "4x3",
+      "3x4",
+      "2×4",
+      "4x2"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A ম্যাট্রিক্সের আকার 3×4, তাই এর ট্রান্সপোজ A<sup>T</sup> এর আকার হবে 4×3। B ম্যাট্রিক্সের আকার 4×3। যেহেতু A<sup>T</sup> এবং B এর আকার একই, তাদের যোগফল (A<sup>T</sup>+B) সম্ভব এবং যোগফল ম্যাট্রিক্সের আকারও 4×3 হবে। এখন, এই 4×3 আকারের ম্যাট্রিক্সকে C (3×2 আকারের ম্যাট্রিক্স) দ্বারা গুণ করলে, গুণফল ম্যাট্রিক্সের আকার হবে 4×2।"
+  },
+  {
+    "question": "A = <table style='border-collapse: collapse; border: 1px solid black; display: inline-table; vertical-align: middle; margin-right: 5px;'><tbody><tr><td style='padding: 5px;'>0</td><td style='padding: 5px;'>3</td><td style='padding: 5px;'>-2</td></tr><tr><td style='padding: 5px;'>-3</td><td style='padding: 5px;'>0</td><td style='padding: 5px;'>7</td></tr><tr><td style='padding: 5px;'>2</td><td style='padding: 5px;'>-7</td><td style='padding: 5px;'>0</td></tr></tbody></table> হলে,<br>i. A একটি বিপ্রতিসম ম্যাট্রিক্স<br>ii. A একটি স্কেলার ম্যাট্রিক্স<br>iii. AB এর ক্রম 3x1 হলে, B এর ক্রম 3×1<br>নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "correctAnswer": 1,
+    "explanation": "i. একটি ম্যাট্রিক্স বিপ্রতিসম হয় যদি A<sup>T</sup> = -A হয়। এখানে A<sup>T</sup> = <table style='border-collapse: collapse; border: 1px solid black; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 2px;'>0</td><td style='padding: 2px;'>-3</td><td style='padding: 2px;'>2</td></tr><tr><td style='padding: 2px;'>3</td><td style='padding: 2px;'>0</td><td style='padding: 2px;'>-7</td></tr><tr><td style='padding: 2px;'>-2</td><td style='padding: 2px;'>7</td><td style='padding: 2px;'>0</td></tr></tbody></table> এবং -A = <table style='border-collapse: collapse; border: 1px solid black; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 2px;'>0</td><td style='padding: 2px;'>-3</td><td style='padding: 2px;'>2</td></tr><tr><td style='padding: 2px;'>3</td><td style='padding: 2px;'>0</td><td style='padding: 2px;'>-7</td></tr><tr><td style='padding: 2px;'>-2</td><td style='padding: 2px;'>7</td><td style='padding: 2px;'>0</td></tr></tbody></table>। সুতরাং A বিপ্রতিসম (সঠিক)। ii. স্কেলার ম্যাট্রিক্সের প্রধান কর্ণের উপাদানগুলো সমান এবং অন্য সব উপাদান শূন্য হয়। A তা নয় (ভুল)। iii. A এর ক্রম 3x3। যদি B এর ক্রম m×n হয়, তবে AB এর ক্রম হবে 3×n, যদি 3=m হয়। AB এর ক্রম 3x1 দেওয়া আছে, সুতরাং n=1 এবং m=3। অর্থাৎ B এর ক্রম 3x1 (সঠিক)।"
+  },
+  {
+    "question": "নিচের তথ্যের আলোকে ১৭ ও ১৮ নং প্রশ্নের উত্তর দাও :<br>A = 3<table style='border-collapse: collapse; border: 1px solid black; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>1</td><td style='padding: 5px;'>2</td></tr><tr><td style='padding: 5px;'>4</td><td style='padding: 5px;'>-3</td></tr></tbody></table><br>|A| এর মান কত?",
+    "options": [
+      "33",
+      "-33",
+      "-11",
+      "-99"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A = 3<table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 2px;'>1</td><td style='padding: 2px;'>2</td></tr><tr><td style='padding: 2px;'>4</td><td style='padding: 2px;'>-3</td></tr></tbody></table> = <table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 2px;'>3</td><td style='padding: 2px;'>6</td></tr><tr><td style='padding: 2px;'>12</td><td style='padding: 2px;'>-9</td></tr></tbody></table>। নির্ণায়ক |A| = (3 × -9) - (6 × 12) = -27 - 72 = -99। বিকল্প পদ্ধতি: |kM| = k<sup>n</sup>|M| সূত্র ব্যবহার করে, |A| = 3<sup>2</sup> * |<table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 2px;'>1</td><td style='padding: 2px;'>2</td></tr><tr><td style='padding: 2px;'>4</td><td style='padding: 2px;'>-3</td></tr></tbody></table>| = 9 * (1*(-3) - 2*4) = 9 * (-11) = -99।"
+  },
+  {
+    "question": "A/3 এর বিপরীত ম্যাট্রিক্স কোনটি?",
+    "options": [
+      "-1/11 <table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>-3</td><td style='padding: 5px;'>-2</td></tr><tr><td style='padding: 5px;'>-4</td><td style='padding: 5px;'>1</td></tr></tbody></table>",
+      "1/11 <table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>-3</td><td style='padding: 5px;'>-2</td></tr><tr><td style='padding: 5px;'>-4</td><td style='padding: 5px;'>1</td></tr></tbody></table>",
+      "-1/11 <table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>-3</td><td style='padding: 5px;'>-4</td></tr><tr><td style='padding: 5px;'>-2</td><td style='padding: 5px;'>1</td></tr></tbody></table>",
+      "1/11 <table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>-3</td><td style='padding: 5px;'>-4</td></tr><tr><td style='padding: 5px;'>-2</td><td style='padding: 5px;'>1</td></tr></tbody></table>"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ধরি, M = A/3 = <table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 2px;'>1</td><td style='padding: 2px;'>2</td></tr><tr><td style='padding: 2px;'>4</td><td style='padding: 2px;'>-3</td></tr></tbody></table>। |M| = (1)(-3) - (2)(4) = -3 - 8 = -11। adj(M) = <table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 2px;'>-3</td><td style='padding: 2px;'>-2</td></tr><tr><td style='padding: 2px;'>-4</td><td style='padding: 2px;'>1</td></tr></tbody></table>। সুতরাং, M<sup>-1</sup> = (1/|M|) * adj(M) = (1/-11) * <table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 2px;'>-3</td><td style='padding: 2px;'>-2</td></tr><tr><td style='padding: 2px;'>-4</td><td style='padding: 2px;'>1</td></tr></tbody></table> = -1/11 <table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 2px;'>-3</td><td style='padding: 2px;'>-2</td></tr><tr><td style='padding: 2px;'>-4</td><td style='padding: 2px;'>1</td></tr></tbody></table>।"
+  },
+  {
+    "question": "নিচের কোনটি ব্যতিক্রমী ম্যাট্রিক্স?",
+    "options": [
+      "<table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>1</td><td style='padding: 5px;'>0</td></tr><tr><td style='padding: 5px;'>0</td><td style='padding: 5px;'>1</td></tr></tbody></table>",
+      "<table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>2</td><td style='padding: 5px;'>-1</td></tr><tr><td style='padding: 5px;'>6</td><td style='padding: 5px;'>3</td></tr></tbody></table>",
+      "<table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>1</td><td style='padding: 5px;'>2</td></tr><tr><td style='padding: 5px;'>2</td><td style='padding: 5px;'>-4</td></tr></tbody></table>",
+      "<table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>3</td><td style='padding: 5px;'>6</td></tr><tr><td style='padding: 5px;'>2</td><td style='padding: 5px;'>4</td></tr></tbody></table>"
+    ],
+    "correctAnswer": 3,
+    "explanation": "একটি ম্যাট্রিক্স ব্যতিক্রমী (Singular) হয় যদি তার নির্ণায়কের মান শূন্য হয়। (ঘ) নং ম্যাট্রিক্সের নির্ণায়ক = (3×4) - (6×2) = 12 - 12 = 0। তাই এটি একটি ব্যতিক্রমী ম্যাট্রিক্স।"
+  },
+  {
+    "question": "a এর কোন মানের জন্য (a-1)x + (a+1)y = 7 রেখাটি 3x + 5y = -7 রেখার সমান্তরাল হবে?",
+    "options": [
+      "-7",
+      "-4",
+      "4",
+      "7"
+    ],
+    "correctAnswer": 2,
+    "explanation": "দুটি রেখা a₁x+b₁y+c₁=0 এবং a₂x+b₂y+c₂=0 সমান্তরাল হওয়ার শর্ত হলো a₁/a₂ = b₁/b₂। এখানে, a₁=a-1, b₁=a+1, a₂=3, b₂=5। শর্তানুযায়ী, (a-1)/3 = (a+1)/5 ⇒ 5(a-1) = 3(a+1) ⇒ 5a - 5 = 3a + 3 ⇒ 2a = 8 ⇒ a = 4।"
+  },
+  {
+    "question": "y + x = 0 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত কোণ উৎপন্ন করে?",
+    "options": [
+      "45°",
+      "225°",
+      "135°",
+      "315°"
+    ],
+    "correctAnswer": 2,
+    "explanation": "সরলরেখাটির সমীকরণকে y = mx + c আকারে সাজালে পাই y = -1*x + 0। এখানে, রেখাটির ঢাল m = -1। আমরা জানি, ঢাল m = tanθ, যেখানে θ হলো x-অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ। সুতরাং, tanθ = -1। যেহেতু ঢাল ঋণাত্মক, কোণটি হবে স্থূলকোণ। θ = 135°।"
+  },
+  {
+    "question": "নিচের তথ্যের আলোকে ২২ ও ২৩ নং প্রশ্নের উত্তর দাও:<br><img src='https://i.ibb.co.com/zWvvSvwh/IMG-20250804-232327-209.jpg' alt='Coordinate Geometry' width='300'><br>AB সরলরেখার সমীকরণ কোনটি?",
+    "options": [
+      "√3x+y=6",
+      "√3x-y=6",
+      "x-√3y=6",
+      "x+√3y=6"
+    ],
+    "correctAnswer": 3,
+    "explanation": "চিত্র থেকে, মূলবিন্দু থেকে AB সরলরেখার উপর অঙ্কিত লম্ব OC-এর দৈর্ঘ্য p = 3 এবং লম্বটি x-অক্ষের ধনাত্মক দিকের সাথে α = 60° কোণ উৎপন্ন করে। সরলরেখার লম্ব-আকারের সমীকরণ x cosα + y sinα = p ব্যবহার করে পাই, x cos(60°) + y sin(60°) = 3 ⇒ x(1/2) + y(√3/2) = 3 ⇒ x + √3y = 6।"
+  },
+  {
+    "question": "ΔOAB -এর ক্ষেত্রফল কত বর্গ একক?",
+    "options": [
+      "3√6",
+      "9√3",
+      "6√3",
+      "12√3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "পূর্ববর্তী প্রশ্ন থেকে প্রাপ্ত AB রেখার সমীকরণ হলো x + √3y = 6। রেখাটি x-অক্ষকে A বিন্দুতে ছেদ করে, যেখানে y=0। সুতরাং, x=6, অর্থাৎ A(6,0)। রেখাটি y-অক্ষকে B বিন্দুতে ছেদ করে, যেখানে x=0। সুতরাং, √3y=6 বা y=6/√3=2√3, অর্থাৎ B(0, 2√3)। ΔOAB একটি সমকোণী ত্রিভুজ যার ভূমি OA=6 এবং উচ্চতা OB=2√3। ক্ষেত্রফল = 1/2 × ভূমি × উচ্চতা = 1/2 × 6 × 2√3 = 6√3 বর্গ একক।"
+  },
+  {
+    "question": "(−2, −2) বিন্দুর পোলার স্থানাঙ্ক কোনটি?",
+    "options": [
+      "(2√2, π/4)",
+      "(2√2, 3π/4)",
+      "(2√2, 5π/4)",
+      "(2√2, 7π/4)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "কার্তেসীয় স্থানাঙ্ক (x, y) = (-2, -2)। পোলার স্থানাঙ্ক (r, θ) নির্ণয়ের জন্য, r = √(x<sup>2</sup>+y<sup>2</sup>) = √((-2)<sup>2</sup>+(-2)<sup>2</sup>) = √(4+4) = √8 = 2√2। যেহেতু বিন্দুটি তৃতীয় চতুর্ভাগে অবস্থিত (x এবং y উভয়ই ঋণাত্মক), কোণ θ = π + tan<sup>-1</sup>(|y/x|) = π + tan<sup>-1</sup>(2/2) = π + π/4 = 5π/4। সুতরাং, পোলার স্থানাঙ্ক (2√2, 5π/4)।"
+  },
+  {
+    "question": "3x<sup>2</sup> + 3y<sup>2</sup> + 6x + 12y - 1 = 0 বৃত্তের কেন্দ্র কোনটি?",
+    "options": [
+      "(-3,-6)",
+      "(-1,-2)",
+      "(1,2)",
+      "(3,6)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "প্রদত্ত সমীকরণটিকে 3 দ্বারা ভাগ করে বৃত্তের সাধারণ আকারে আনা হয়: x<sup>2</sup> + y<sup>2</sup> + 2x + 4y - 1/3 = 0। এই সমীকরণকে x<sup>2</sup> + y<sup>2</sup> + 2gx + 2fy + c = 0 এর সাথে তুলনা করলে পাই, 2g = 2 ⇒ g = 1 এবং 2f = 4 ⇒ f = 2। বৃত্তের কেন্দ্র হলো (-g, -f)। সুতরাং, কেন্দ্র = (-1, -2)।"
+  }
+]

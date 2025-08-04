@@ -1,0 +1,277 @@
+[
+  {
+    "question": "(2, 4) কেন্দ্রবিশিষ্ট ও x-অক্ষকে স্পর্শ করে এরূপ বৃত্তের সমীকরণ—",
+    "options": [
+      "x<sup>2</sup> + y<sup>2</sup>-4x-8y+16=0",
+      "x<sup>2</sup> + y<sup>2</sup> - 4x-8y+4=0",
+      "x<sup>2</sup>+ y<sup>2</sup> - 8x-4y+16=0",
+      "x<sup>2</sup>+ y<sup>2</sup> - 8x-4y+4=0"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "y = mx + c সরলরেখাটি x<sup>2</sup> + y<sup>2</sup> = 25 বৃত্তকে স্পর্শ করার শর্ত",
+    "options": [
+      "c = ±5√<span style='text-decoration:overline;'>1+ m<sup>2</sup></span>",
+      "c = ± 5√<span style='text-decoration:overline;'>1 - m<sup>2</sup></span>",
+      "c= ± 25 √<span style='text-decoration:overline;'> 1 + m<sup>2</sup></span>",
+      "c= ± 25 √<span style='text-decoration:overline;'>1-m<sup>2</sup></span>"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "<div style='width: 0; height: 0; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 17.32px solid black; display: inline-block; margin-right: 5px;'></div>ABC এর a : b : c = 1 : √3 : 2 হলে <C এর মান কত?",
+    "options": [
+      "90°",
+      "60°",
+      "45°",
+      "30°"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "sin 5° = p হলে sin 10° এর মান কোনটি?",
+    "options": [
+      "2p√<span style='text-decoration:overline;'>1-p<sup>2</sup></span>",
+      "2√<span style='text-decoration:overline;'>1-p<sup>2</sup></span>",
+      "2p√<span style='text-decoration:overline;'>p<sup>2</sup>-1</span>",
+      "2p"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "নিচের তথ্যের আলোকে ৫ ও ৬ নং প্রশ্নের উত্তর দাও:<br><img src='https://i.ibb.co.com/4RvgZYrx/IMG-20250804-232311-029-2.jpg' alt='Triangle ABC' width='300'><br>c = কত?",
+    "options": [
+      "1/√3",
+      "2/√3",
+      "2√3",
+      "3√3"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "<div style='width: 0; height: 0; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 17.32px solid black; display: inline-block; margin-right: 5px;'></div>ABC এর পরিব্যাসার্ধ কত?",
+    "options": [
+      "1",
+      "2",
+      "2/√3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "y = cot<sup>-1</sup>((1-x)/(1+x)) হলে dy/dx = ?",
+    "options": [
+      "1/(1+x<sup>2</sup>)",
+      "-1/(1+x<sup>2</sup>)",
+      "1/(1+x)",
+      "-1/(1+x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "(0, 1) বিন্দুতে y = e<sup>x</sup> বক্ররেখার ক্ষেত্রে—<br>i. স্পর্শকের সমীকরণ, x-y+1=0<br>ii. অভিলম্বের সমীকরণ, x+y−1=0<br>iii. ঢাল = 1<br>নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "cos(3x) এর n-তম অন্তরজ কোনটি?",
+    "options": [
+      "3<sup>n</sup>sin(3x)",
+      "3n sin(3x)",
+      "3<sup>n</sup>cos(nπ/2 + 3x)",
+      "3<sup>n</sup>sin(nπ/2 + 3x)"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "x = a cosθ, y = a sinθ হলে, dy/dx = কত?",
+    "options": [
+      "y/x",
+      "x/y",
+      "-y/x",
+      "-x/y"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "y = -√<span style='text-decoration:overline;'>4 - x<sup>2</sup></span> এবং y = 0 দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কোনটি?",
+    "options": [
+      "4π",
+      "2π",
+      "π",
+      "π/2"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "∫e<sup>x</sup>(cosx - sinx) dx = f(x) + c হলে, f(x) কোনটি?",
+    "options": [
+      "e<sup>x</sup>sinx",
+      "-e<sup>x</sup>sinx",
+      "e<sup>x</sup>cosx",
+      "-e<sup>x</sup>cosx"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "∫<sub>2</sub><sup>3</sup> (2x - 1) / (x(x - 1)) dx = কত?",
+    "options": [
+      "ln 4",
+      "ln 2",
+      "2 ln 3",
+      "ln 3"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "∫sin x° dx = কত?",
+    "options": [
+      "cosx° + c",
+      "– cosx + c",
+      "-180/π cosx° + c",
+      "cosx° + c"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "যদি A, B, C ম্যাট্রিক্স তিনটির আকার যথাক্রমে 3×4, 4x3 এবং 3×2 হয় তবে (A<sup>T</sup>+B)C ম্যাট্রিক্সটির আকার কত?",
+    "options": [
+      "4x3",
+      "3x4",
+      "2×4",
+      "4x2"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "A = <table style='border-collapse: collapse; border: 1px solid black; display: inline-table; vertical-align: middle; margin-right: 5px;'><tbody><tr><td style='padding: 5px;'>0</td><td style='padding: 5px;'>3</td><td style='padding: 5px;'>-2</td></tr><tr><td style='padding: 5px;'>-3</td><td style='padding: 5px;'>0</td><td style='padding: 5px;'>7</td></tr><tr><td style='padding: 5px;'>2</td><td style='padding: 5px;'>-7</td><td style='padding: 5px;'>0</td></tr></tbody></table> হলে,<br>i. A একটি বিপ্রতিসম ম্যাট্রিক্স<br>ii. A একটি স্কেলার ম্যাট্রিক্স<br>iii. AB এর ক্রম 3x1 হলে, B এর ক্রম 3×1<br>নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "নিচের তথ্যের আলোকে ১৭ ও ১৮ নং প্রশ্নের উত্তর দাও :<br>A = 3<table style='border-collapse: collapse; border: 1px solid black; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>1</td><td style='padding: 5px;'>2</td></tr><tr><td style='padding: 5px;'>4</td><td style='padding: 5px;'>-3</td></tr></tbody></table><br>|A| এর মান কত?",
+    "options": [
+      "33",
+      "-33",
+      "-11",
+      "-99"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "A/3 এর বিপরীত ম্যাট্রিক্স কোনটি?",
+    "options": [
+      "-1/11 <table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>-3</td><td style='padding: 5px;'>-2</td></tr><tr><td style='padding: 5px;'>-4</td><td style='padding: 5px;'>1</td></tr></tbody></table>",
+      "1/11 <table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>-3</td><td style='padding: 5px;'>-2</td></tr><tr><td style='padding: 5px;'>-4</td><td style='padding: 5px;'>1</td></tr></tbody></table>",
+      "-1/11 <table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>-3</td><td style='padding: 5px;'>-4</td></tr><tr><td style='padding: 5px;'>-2</td><td style='padding: 5px;'>1</td></tr></tbody></table>",
+      "1/11 <table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>-3</td><td style='padding: 5px;'>-4</td></tr><tr><td style='padding: 5px;'>-2</td><td style='padding: 5px;'>1</td></tr></tbody></table>"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "নিচের কোনটি ব্যতিক্রমী ম্যাট্রিক্স?",
+    "options": [
+      "<table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>1</td><td style='padding: 5px;'>0</td></tr><tr><td style='padding: 5px;'>0</td><td style='padding: 5px;'>1</td></tr></tbody></table>",
+      "<table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>2</td><td style='padding: 5px;'>-1</td></tr><tr><td style='padding: 5px;'>6</td><td style='padding: 5px;'>3</td></tr></tbody></table>",
+      "<table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>1</td><td style='padding: 5px;'>2</td></tr><tr><td style='padding: 5px;'>2</td><td style='padding: 5px;'>-4</td></tr></tbody></table>",
+      "<table style='border-collapse: collapse; display: inline-table; vertical-align: middle;'><tbody><tr><td style='padding: 5px;'>3</td><td style='padding: 5px;'>6</td></tr><tr><td style='padding: 5px;'>2</td><td style='padding: 5px;'>4</td></tr></tbody></table>"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "a এর কোন মানের জন্য (a-1)x + (a+1)y = 7 রেখাটি 3x + 5y = -7 রেখার সমান্তরাল হবে?",
+    "options": [
+      "-7",
+      "4",
+      "4",
+      "7"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "y + x = 0 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত কোণ উৎপন্ন করে?",
+    "options": [
+      "45°",
+      "225°",
+      "135°",
+      "315°"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "নিচের তথ্যের আলোকে ২২ ও ২৩ নং প্রশ্নের উত্তর দাও:<br><img src='https://i.ibb.co.com/zWvvSvwh/IMG-20250804-232327-209.jpg' alt='Coordinate Geometry' width='300'><br>AB সরলরেখার সমীকরণ কোনটি?",
+    "options": [
+      "√3x+y=6",
+      "√3x-y=6",
+      "x-√3y=6",
+      "x+√3y=6"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "ΔOAB -এর ক্ষেত্রফল কত বর্গ একক?",
+    "options": [
+      "3√6",
+      "9√3",
+      "6√3",
+      "12√3"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "(−2, −2) বিন্দুর পোলার স্থানাঙ্ক কোনটি?",
+    "options": [
+      "(2√2, π/4)",
+      "(2√2, 3π/4)",
+      "(2√2, 5π/4)",
+      "(2√2, 7π/4)"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "3x<sup>2</sup> + 3y<sup>2</sup> + 6x + 12y - 1 = 0 বৃত্তের কেন্দ্র কোনটি?",
+    "options": [
+      "(-3,-6)",
+      "(-1,-2)",
+      "(1,2)",
+      "(3,6)"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  }
+]
